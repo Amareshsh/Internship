@@ -1,0 +1,19 @@
+The basic commands to get started with git for collabrative programming:
+
+1) to create empty directory >> mkdir nameofdir
+
+2) to initialise the directory >> git init
+
+3) to add the file to the initialised git >> git add file_name
+
+4) to commit the add files >> git commit -m "first commit"
+
+5) to create the branch to keep track of different versions of the code >> git checkout -b "branch_name"
+
+6) to create the repository login to github and create repositroy by some name 
+
+7) then add the remote to that repositroy >> git remote add remote_name https://github.com/Amareshsh/Intership_deevia
+
+8) then push the staged repository to the remote with master branch >> git push -u remote_name master
+
+9) 
